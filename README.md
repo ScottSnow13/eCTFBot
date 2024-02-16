@@ -3,7 +3,7 @@ This is a ChatGPT API integrated chatbot that's sole purpose is to help users wi
 ```
 https://openai.com/blog/openai-api
 ```
-Login or make an account if you don't have one already, then load atleast $5 dollars onto your account, and create an OpenAI API key (make sure you to keep the key a secret). After obtaining the API you will need to start setting up your Python environment. Open Visual Studio Code and a new terminal set to command prompt. In the command prompt terminal window run these commands one by one.
+Login or make an account if you don't have one already, then load atleast $5 dollars onto your account, and create an OpenAI API key (make sure you to keep the key a secret). After obtaining the API you will need to start setting up your Python environment. Open Visual Studio Code and a new terminal inside of it along with setting it to be a command prompt. In the command prompt terminal window run these commands one by one.
 ```
 # Creates Python virtual environment 
 python -m venv TestRun
