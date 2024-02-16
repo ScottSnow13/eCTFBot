@@ -23,7 +23,7 @@ If you do not have a ```.streamlit``` folder, simply make a new folder under you
 ```
 OPENAI_API_KEY = "yourapikeyfromOpenAI"
 ```
-Next download the ```eCTFBot.py``` file from this repo and open it in Visual Studio Code. After all of these steps have been done all you have to do is run this command in your TestRun command terminal.
+Next download the ```./eCTFBot.py``` file from this repo and open it in Visual Studio Code. After all of these steps have been done all you have to do is run this command in your TestRun command terminal.
 ```
 python -m streamlit run "C:\pathtofile\eCTFBot.py"
 ```
