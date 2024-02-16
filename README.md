@@ -1,5 +1,5 @@
 # 🔐eCTFBot
-This is a ChatGPT API integrated chatbot that's sole purpose is to help users with embedded systems capture the flag competitions. The first step to getting this running is going to this link.
+This is a ChatGPT API integrated chatbot that's sole purpose is to help users with embedded systems capture the flag competitions. The first step to getting this running is by going to this link.
 ```
 https://openai.com/blog/openai-api
 ```
