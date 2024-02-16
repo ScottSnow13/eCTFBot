@@ -13,7 +13,7 @@ TestRun\Scripts\activate
 ```
 Once active your terminal command line should look like this, ```(TestRun) C:\Users\username>```. Once you have done this download the ```./requirements.txt``` from this repo and run it with the follwing command in the TestRun terminal.
 ```
-pip install -r "pathtothefile\reqirements.txt"
+pip install -r "pathtothefile\requirements.txt"
 ```
 This file will download and install the latest versions of ```openai``` and ```streamlit```, which are used to make this application work. If for some reason the openai import is not working, in your TestRun terminal run this command ```pip install openai --upgrade```, this should fix the problem. Now navigate your file explorer to find your ```.streamlit``` file. The path to this file should look something like this.
 ```
